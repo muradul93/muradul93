@@ -6,8 +6,8 @@ Hi there! I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ year
 ## 🚀 🛠️ **Technologies I Work With**
 
 ### **Backend**
-- **Frameworks:** Spring, Spring Boot, Spring Cloud, Spring Data, Spring Security
-- **Languages:** Java (8, 11, 17, 21), Python
+- **Frameworks:** Spring, **Spring Boot**, Spring Cloud, Spring Data, Spring Security
+- **Languages:** **Java** (8, 11, 17, 21), Python
 - **Persistence:** Hibernate, JPA, JDBC
 
 ### **Databases**
