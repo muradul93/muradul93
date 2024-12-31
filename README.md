@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ years)** specializing in **Spring Boot**, **microservices**, and database technologies. Proven ability to design and develop robust, scalable, and secure software systems.
 
----
 ## 🚀 🛠️ **Technologies I Work With**
 
 ### **Backend**
@@ -33,5 +32,3 @@ I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ years)** speci
 
 ### **APIs**
 - REST API, SOAP
-
----
