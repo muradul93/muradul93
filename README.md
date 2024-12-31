@@ -52,34 +52,7 @@ Hi there! I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ year
 ---
 
 
-### 🚀 **Technical Expertise**
-- Fluent in **Java**, **Spring Boot**, **SQL**, and **microservices**.
-- Skilled in optimizing code for performance, scalability, and maintainability.
-
-### 🤝 **Collaborative Leader**
-- Passionate about mentoring teams and fostering a culture of excellence.
-- Proven ability to align technical strategies with business goals.
-
-### 📈 **Proven Results**
-- Delivered solutions that **reduce costs**, **boost performance**, and **streamline processes**.
-
----
-
-
-## ✨ **What I Offer**
-
-- **API Development**: Build robust RESTful APIs for seamless integration.
-- **Java & Spring Boot Expertise**: Proficient in Java EE, Spring MVC, and Spring Boot.
-- **Database Management**: Expertise in Hibernate and JPA for efficient data handling.
-- **Frontend Development**: Skilled in ReactJS, Angular, and JavaScript for dynamic UIs.
-- **Scalable Architectures**: Microservices, Docker, and Kafka for modern solutions.
-
----
-
-
 ## 💬 **Let’s Connect!**
-Ready to discuss how I can help solve your software challenges? Let’s schedule a **quick 10-minute call** to explore your project needs.
-
 - 📧 Email: [mmuradul@gmail.com](mailto:mmuradul@gmail.com)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/muradul-mostafa](https://www.linkedin.com/in/muradul-mostafa)
 
