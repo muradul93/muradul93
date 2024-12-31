@@ -8,6 +8,9 @@ I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ years)** speci
 - **Languages:** **Java** (8, 11, 17, 21), Python
 - **Persistence:** Hibernate, JPA, JDBC
 
+### **Frontend**
+- Angular, ReactJS, JavaScript
+
 ### **Databases**
 - PostgreSQL, Oracle, MySQL, MongoDB
 
@@ -23,9 +26,6 @@ I'm **Muradul Mostafa**, Experienced **Java Software Engineer (7+ years)** speci
 ### **Messaging & Monitoring**
 - **Messaging Systems:** Kafka, RabbitMQ, ActiveMQ
 - **Monitoring Tools:** Grafana, Kibana
-
-### **Frontend**
-- Angular, ReactJS, JavaScript
 
 ### **Build Tools**
 - Apache Maven, Gradle
